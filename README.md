@@ -6,7 +6,8 @@
 
 ## 替代项目 
 
-https://github.com/FuryMartin/GetPeoplesDailyPDF
+- 基于 python 的下载器 － https://github.com/FuryMartin/GetPeoplesDailyPDF
+- 油猴脚本 － https://linux.do/t/topic/672135
 
 
 ------
