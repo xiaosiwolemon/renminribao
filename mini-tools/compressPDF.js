@@ -2,7 +2,7 @@
 const path = require('path');
 const { spawn } = require('child_process');
 
-async function generateLinks(startDateStr, endDateStr) {
+async function compressPDF(startDateStr, endDateStr) {
   const startDate = new Date(startDateStr);
   const endDate = new Date(endDateStr);
   const links = [];
@@ -21,9 +21,9 @@ async function generateLinks(startDateStr, endDateStr) {
   return links;
 }
 
-const start = '2024-12-02';
-const end = '2025-05-22';
-generateLinks(start, end);
+const start = '2024-08-01';
+const end = '2024-12-01';
+compressPDF(start, end);
 
 
 

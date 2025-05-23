@@ -1,8 +1,8 @@
-const exec = require('./index');
+const exec = require('../index');
 const fs = require('fs');
 const path = require('path');
 
-const filePath = path.join(__dirname, 'links.txt');
+const filePath = path.join(__dirname, 'pageLinks.txt');
 const errorLogPath = path.join(__dirname, 'error.log');
 
 async function processLinks() {

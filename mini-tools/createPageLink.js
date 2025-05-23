@@ -24,5 +24,5 @@ const end = '2024-11-30';
 const resultLinks = generateLinks(start, end);
 
 // 写入文件
-fs.writeFileSync('links-old.txt', resultLinks.join('\n'), 'utf-8');
-console.log(`已生成 ${resultLinks.length} 条链接，保存至 links.txt`);
+fs.writeFileSync('pageLinks.txt', resultLinks.join('\n'), 'utf-8');
+console.log(`已生成 ${resultLinks.length} 条链接，保存至 pageLinks.txt`);
