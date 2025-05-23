@@ -23,7 +23,3 @@
 ## 使用方法
 参考 /examples/run.js
 
-## 网上找到的历史资源
-- 人民日报（1946-2024）  https://pan.quark.cn/s/dd5943257b80 
-- 2024.8.1-2025.5.22   https://pan.baidu.com/s/1P0GkyFkpLPrpCgbG2ZZsPw?pwd=3s8o
-
