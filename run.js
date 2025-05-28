@@ -7,5 +7,6 @@ const generateLinks = require('./generateLinks');
     const start = moment().format('YYYY-MM-DD');
     console.log(`正在尝试抓取${start}的人民日报信息...`);
     const link = generateLinks(start)[0];
+    console.log(link);
     await exec(link);
 })();
