@@ -21,8 +21,8 @@ https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBajJKQzFoQlRscXpoOE
 
 ### PT
 
-- 如果你玩 PT(private tracker)，可以到 btschool（学校）看看，有从 1946-2025 基本上所有的日期存档
-- 或者找一个有 btschool（学校）账号的人，让他帮你下载
+- 如果你玩 PT(private tracker)，可以到 btschool（学校）、m-team（馒头）看看，有从 1946-2025 基本上所有的日期存档
+- 或者找一个有账号的人，让他帮你下载
 - 别的站点可能也有，只要你能找到就行
 
 ---------------------
@@ -51,5 +51,6 @@ node ./run.js
 
 - 基于 python 的下载器 － https://github.com/FuryMartin/GetPeoplesDailyPDF
 - 油猴脚本 － https://linux.do/t/topic/672135
+
 
 
