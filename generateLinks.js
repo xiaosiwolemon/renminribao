@@ -10,7 +10,7 @@ function generateLinks(startDateStr, endDateStr = startDateStr) {
 
         const url = `https://paper.people.com.cn/rmrb/pc/layout/${year}${month}/${day}/node_01.html`
         // 下面的是2024年11月30日之前的链接
-        //  url = `https://paper.people.com.cn/rmrb/html/${year}-${month}/${day}/nbs.D110000renmrb_01.htm`;
+        // const url = `https://paper.people.com.cn/rmrb/html/${year}-${month}/${day}/nbs.D110000renmrb_01.htm`;
         links.push(url);
 
         startDate.setDate(startDate.getDate() + 1);
