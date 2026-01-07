@@ -20,3 +20,7 @@ node ./run.js
 - 基于 python 的下载器 － https://github.com/FuryMartin/GetPeoplesDailyPDF
 - 油猴脚本 － https://linux.do/t/topic/672135
 
+## 这个太麻烦了
+
+如果你玩 PT(private tracker)，可以到 btschool 看看，有从 1946-2025 基本上所有的日期存档
+或者找一个有 btschool 账号的人，让他帮你下载
