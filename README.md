@@ -1,4 +1,4 @@
-# 本脚本停止活跃维护，毕竟
+本脚本停止活跃维护，毕竟
 
 1. 现在有这么多现成的资源可以用了
 2. 脚本当前运行正常
@@ -61,6 +61,7 @@ node ./run.js
 
 - 基于 python 的下载器 － https://github.com/FuryMartin/GetPeoplesDailyPDF
 - 油猴脚本 － https://linux.do/t/topic/672135
+
 
 
 
